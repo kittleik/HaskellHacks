@@ -1,0 +1,4 @@
+# Haskell compile files
+hello
+*.hi
+*.o
